@@ -1,10 +1,11 @@
 div{
     font-style: oblique;
-    border: 20px;
+    border: 2px;
     background-color: darkgreen;
     color: darkred;
     padding: 10px;
-    margin: 10px;
+    margin: 2px;
+    border-radius: 23px;
 
     
 }
